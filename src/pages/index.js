@@ -1,4 +1,4 @@
-import Layout from '../components/Layout'
+import Layout from '../parts/Layout'
 import Image from 'next/image'
 import Link from 'next/link'
 
